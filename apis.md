@@ -1,15 +1,13 @@
 ---
 name: 18F
 x-slug: 18f
-description: As an office within the General Services Administration, we know how
-  to work with government. Work with us to plan successful projects, build custom
-  software, get better results with vendors, or learn how to work in new ways.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/18f-logo.jpeg
+description: Front Page for the GSA.gov website
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11148-18f.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "23701"
 tags: 18F
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/18f/master/_listings/18f/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -20,8 +18,30 @@ x-common:
   url: https://18f.gsa.gov/feed/
 - type: x-blog-rss
   url: http://18fblog.tumblr.com/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/us-general-services-administration
+- type: x-email
+  url: press@gsa.gov
+- type: x-email
+  url: NCSCcustomer.service@gsa.gov
+- type: x-email
+  url: eeo@gsa.gov
+- type: x-email
+  url: dominic.sale@gsa.gov
+- type: x-email
+  url: fas.car@gsa.gov
+- type: x-email
+  url: ocr@gsa.gov
+- type: x-email
+  url: daniel.jacobs@gsa.gov
+- type: x-email
+  url: marina.fox@gsa.gov
+- type: x-email
+  url: james.sheire@gsa.gov
 - type: x-github
   url: https://github.com/18f
+- type: x-twitter
+  url: https://twitter.com/USGSA
 - type: x-twitter
   url: https://twitter.com/18F
 - type: x-website
